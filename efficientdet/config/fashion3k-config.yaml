@@ -1,5 +1,5 @@
 num_classes: 3
-label_id_mapping: D:\ivs\models\automl\efficientdet\ivs-labels.yaml
+label_map: /workspace/data/automl/efficientdet/config/fashion3k-labels.yaml
 #optimizer: adam
 #act_type: relu
 #learning_rate: 0.001
