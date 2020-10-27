@@ -12,7 +12,7 @@ python3 main.py\
 	--eval_batch_size=8\
 	--eval_samples=1024\
 	--num_examples_per_epoch=5717\
-	--hparams=config/fashion3k-config.yaml
+	--hparams=config/fashion3k-config.yaml\
 	--strategy=gpus
 
 
