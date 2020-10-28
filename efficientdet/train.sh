@@ -2,8 +2,8 @@
 
 
 python3 main.py\
-       	--mode=train_and_eval\
-       	--training_file_pattern=/workspace/data/style3k/style3k-train*.tfrecord\
+  --mode=train_and_eval\
+  --training_file_pattern=/workspace/data/style3k/style3k-train*.tfrecord\
 	--validation_file_pattern=/workspace/data/style3k/style3k-test*.tfrecord\
 	--model_name=efficientdet-d0\
 	--model_dir=/workspace/data/efficientdet-fashion3k\
