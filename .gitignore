@@ -5,3 +5,5 @@ tmp
 .ropeproject
 venv
 .idea
+savedmodeldir
+*.tflite
